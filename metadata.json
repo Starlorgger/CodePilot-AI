@@ -1,0 +1,6 @@
+{
+  "name": "CodePilot AI by Tayo Vasa Studios",
+  "description": "Build Smarter. Code Faster. An intelligent AI-powered application creation platform that turns natural language ideas into production-ready apps with interactive live preview, automatic testing, and instant export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
